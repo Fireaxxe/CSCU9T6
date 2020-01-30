@@ -1,0 +1,416 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a
+Relation:     fruit
+Instances:    151
+Attributes:   5
+              Colour
+              Weight
+              Shape
+               Price 
+              Fruit
+Test mode:    split 66.0% train, remainder test
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -4.140209040658777
+    Node 7    9.288877529205543
+    Node 8    0.37483026383201434
+    Node 9    -4.59357284012845
+    Node 10    -3.9561617856545737
+    Node 11    -5.707701290744158
+    Node 12    -0.5808923137702181
+    Node 13    4.385183404912696
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -1.4156766368304186
+    Node 7    -0.047479755167485836
+    Node 8    3.147010842828923
+    Node 9    -2.521173560116672
+    Node 10    4.296060683840277
+    Node 11    5.386483777223756
+    Node 12    -5.4628683853270115
+    Node 13    -8.266722028433799
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -4.927225409058428
+    Node 7    -6.495797299015067
+    Node 8    8.322336687057046
+    Node 9    -1.5224081038801087
+    Node 10    -5.230245857403638
+    Node 11    -5.601233072335065
+    Node 12    -3.8080546411511857
+    Node 13    2.094578317305183
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -3.7382391209764907
+    Node 7    1.3793462009797457
+    Node 8    -4.583045940075814
+    Node 9    0.8005718873547049
+    Node 10    -5.187584589608768
+    Node 11    2.2988205275914555
+    Node 12    3.5088075630058704
+    Node 13    -5.06535547118591
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -4.602737615613382
+    Node 7    -7.322280184477164
+    Node 8    2.2186037913150924
+    Node 9    -3.3142575855021628
+    Node 10    3.240811634796267
+    Node 11    -3.2534269862594525
+    Node 12    1.735019020275856
+    Node 13    0.9046672509444107
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -2.0629605030057374
+    Node 7    -5.886521190461431
+    Node 8    -4.841804152298162
+    Node 9    2.6869254419601214
+    Node 10    1.4439497410539222
+    Node 11    -3.6063061984979683
+    Node 12    4.895402018218384
+    Node 13    -3.7026861848877224
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    0.3116291906172473
+    Node 7    -3.796811895708669
+    Node 8    -7.846581430991921
+    Node 9    1.5271720526585484
+    Node 10    -3.9838979833886947
+    Node 11    -5.100481494258653
+    Node 12    -6.317252932761794
+    Node 13    2.781286227168857
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    3.518514634730749
+    Attrib Colour=Green    2.5195709291839337
+    Attrib Colour=Red    -4.877342220696528
+    Attrib Colour=Yellow    -1.2054248638476934
+    Attrib Weight    7.400896150074165
+    Attrib Shape=Round    1.2559924858247458
+    Attrib Shape=Oval    1.42342492499388
+    Attrib Shape=Long    -6.209863952323092
+    Attrib  Price     3.7557091256051938
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    1.2528401246229743
+    Attrib Colour=Green    4.115278648818218
+    Attrib Colour=Red    2.5119966276981347
+    Attrib Colour=Yellow    -7.936370575311818
+    Attrib Weight    8.879278109388068
+    Attrib Shape=Round    -0.5165565616077747
+    Attrib Shape=Oval    -0.47789384185010364
+    Attrib Shape=Long    -0.30354180793949137
+    Attrib  Price     1.245878677900118
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    0.8101064753498387
+    Attrib Colour=Green    -3.266200960621686
+    Attrib Colour=Red    2.4585792770093406
+    Attrib Colour=Yellow    -0.01860443874620162
+    Attrib Weight    0.37319133904482743
+    Attrib Shape=Round    -1.4430195910193606
+    Attrib Shape=Oval    -0.679874437839783
+    Attrib Shape=Long    1.3116128754851295
+    Attrib  Price     2.171783069786507
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    0.3829542227623374
+    Attrib Colour=Green    2.7842110313691903
+    Attrib Colour=Red    -2.162663246882406
+    Attrib Colour=Yellow    -0.9817978326757802
+    Attrib Weight    3.253815385636035
+    Attrib Shape=Round    0.7453409755349661
+    Attrib Shape=Oval    -3.3538515874516888
+    Attrib Shape=Long    2.2618598046115634
+    Attrib  Price     1.4454684855934323
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -0.5598674151863121
+    Attrib Colour=Green    0.49067391754442813
+    Attrib Colour=Red    1.155151849691981
+    Attrib Colour=Yellow    -1.0425741498647187
+    Attrib Weight    5.328856702211014
+    Attrib Shape=Round    -0.059920950278393795
+    Attrib Shape=Oval    0.658593410948254
+    Attrib Shape=Long    0.013120819163454839
+    Attrib  Price     7.747770755196124
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    -1.4857583900381255
+    Attrib Colour=Green    3.333664709682798
+    Attrib Colour=Red    -4.807319038944842
+    Attrib Colour=Yellow    2.921916194267373
+    Attrib Weight    -0.11671574934541146
+    Attrib Shape=Round    -1.4442072426690682
+    Attrib Shape=Oval    3.042410017369516
+    Attrib Shape=Long    -0.14488110199478318
+    Attrib  Price     -6.254761924416261
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    -0.2247005265297882
+    Attrib Colour=Green    0.6201816189187639
+    Attrib Colour=Red    0.8780742197684693
+    Attrib Colour=Yellow    -1.3290156444887156
+    Attrib Weight    -5.775919010928344
+    Attrib Shape=Round    0.6262512819109115
+    Attrib Shape=Oval    -0.06276588523510371
+    Attrib Shape=Long    -0.36207604997572823
+    Attrib  Price     -4.765712976874393
+Class No_fruit
+    Input
+    Node 0
+Class Melon
+    Input
+    Node 1
+Class Apple
+    Input
+    Node 2
+Class Pineapple
+    Input
+    Node 3
+Class Courgette
+    Input
+    Node 4
+Class Banana
+    Input
+    Node 5
+Class Tomato
+    Input
+    Node 6
+
+
+Time taken to build model: 0.19 seconds
+
+=== Evaluation on test split ===
+
+Time taken to test model on test split: 0 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          48               94.1176 %
+Incorrectly Classified Instances         3                5.8824 %
+Kappa statistic                          0.9143
+Mean absolute error                      0.0272
+Root mean squared error                  0.1238
+Relative absolute error                 13.1278 %
+Root relative squared error             39.3277 %
+Total Number of Instances               51     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.900    0.000    1.000      0.900    0.947      0.919    0.973     0.970     No_fruit
+                 1.000    0.032    0.952      1.000    0.976      0.960    0.997     0.995     Melon
+                 1.000    0.042    0.600      1.000    0.750      0.758    0.979     0.639     Apple
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Pineapple
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Courgette
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.980     0.500     Banana
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Tomato
+Weighted Avg.    0.941    0.015    0.938      0.941    0.935      0.919    0.986     0.955     
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e  f  g   <-- classified as
+ 18  0  2  0  0  0  0 |  a = No_fruit
+  0 20  0  0  0  0  0 |  b = Melon
+  0  0  3  0  0  0  0 |  c = Apple
+  0  0  0  2  0  0  0 |  d = Pineapple
+  0  0  0  0  1  0  0 |  e = Courgette
+  0  1  0  0  0  0  0 |  f = Banana
+  0  0  0  0  0  0  4 |  g = Tomato
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     fruit
+Instances:     unknown (yet). Reading incrementally
+Attributes:   5
+
+=== Predictions on user test set ===
+
+    inst#     actual  predicted error prediction
+        1        1:? 1:No_fruit       0.92 
+        2        1:?    2:Melon       0.971 
+        3        1:? 1:No_fruit       0.982 
+        4        1:?    2:Melon       0.971 
+        5        1:? 1:No_fruit       0.998 
+        6        1:? 1:No_fruit       0.993 
+        7        1:? 1:No_fruit       0.99 
+        8        1:?   7:Tomato       0.926 
+        9        1:?    2:Melon       0.867 
+       10        1:? 1:No_fruit       0.985 
+       11        1:?    3:Apple       0.895 
+       12        1:? 1:No_fruit       0.991 
+       13        1:?    3:Apple       0.873 
+       14        1:?    2:Melon       0.695 
+       15        1:?    2:Melon       0.979 
+       16        1:?   6:Banana       0.768 
+       17        1:?    2:Melon       0.995 
+       18        1:? 1:No_fruit       0.993 
+       19        1:? 1:No_fruit       0.994 
+       20        1:?    2:Melon       0.987 
+       21        1:? 1:No_fruit       0.985 
+       22        1:? 1:No_fruit       0.984 
+       23        1:? 1:No_fruit       0.942 
+       24        1:?   7:Tomato       0.604 
+       25        1:?    2:Melon       0.997 
+       26        1:?    2:Melon       0.979 
+       27        1:? 1:No_fruit       0.997 
+       28        1:? 1:No_fruit       0.996 
+       29        1:?    3:Apple       0.809 
+       30        1:? 1:No_fruit       0.994 
+       31        1:? 1:No_fruit       0.997 
+       32        1:?    2:Melon       0.995 
+       33        1:?    2:Melon       0.967 
+       34        1:?    3:Apple       0.95 
+       35        1:? 1:No_fruit       0.995 
+       36        1:? 1:No_fruit       0.708 
+       37        1:? 5:Courgette       0.944 
+       38        1:? 1:No_fruit       0.997 
+       39        1:?    3:Apple       0.719 
+       40        1:?    2:Melon       0.972 
+       41        1:? 1:No_fruit       0.966 
+       42        1:?    2:Melon       0.974 
+       43        1:? 1:No_fruit       0.834 
+       44        1:?    2:Melon       0.984 
+       45        1:?    3:Apple       0.888 
+       46        1:?    2:Melon       0.995 
+       47        1:? 1:No_fruit       0.979 
+       48        1:?    2:Melon       0.983 
+       49        1:? 1:No_fruit       0.98 
+       50        1:? 5:Courgette       0.948 
+       51        1:? 1:No_fruit       0.983 
+       52        1:? 1:No_fruit       0.98 
+       53        1:?    2:Melon       0.983 
+       54        1:? 1:No_fruit       0.994 
+       55        1:? 1:No_fruit       0.569 
+       56        1:? 1:No_fruit       0.966 
+       57        1:?    2:Melon       0.989 
+       58        1:?    2:Melon       0.982 
+       59        1:?   7:Tomato       0.658 
+       60        1:?   7:Tomato       0.927 
+       61        1:?    3:Apple       0.941 
+       62        1:? 5:Courgette       0.944 
+       63        1:?    2:Melon       0.995 
+       64        1:?    2:Melon       0.989 
+       65        1:? 1:No_fruit       0.98 
+       66        1:? 1:No_fruit       0.569 
+       67        1:? 1:No_fruit       0.987 
+       68        1:?    3:Apple       0.954 
+       69        1:?    2:Melon       0.998 
+       70        1:? 1:No_fruit       0.98 
+       71        1:?    2:Melon       0.917 
+       72        1:? 1:No_fruit       0.995 
+       73        1:?    3:Apple       0.934 
+       74        1:?    2:Melon       1 
+       75        1:? 1:No_fruit       0.994 
+       76        1:?    2:Melon       0.989 
+       77        1:?    3:Apple       0.565 
+       78        1:? 1:No_fruit       0.981 
+       79        1:? 1:No_fruit       0.994 
+       80        1:? 1:No_fruit       0.458 
+       81        1:? 1:No_fruit       0.993 
+       82        1:? 1:No_fruit       0.982 
+       83        1:?    2:Melon       0.995 
+       84        1:? 1:No_fruit       0.991 
+       85        1:?    2:Melon       0.999 
+       86        1:? 1:No_fruit       0.965 
+       87        1:? 1:No_fruit       0.994 
+       88        1:? 1:No_fruit       0.984 
+       89        1:? 1:No_fruit       0.587 
+       90        1:?    2:Melon       0.98 
+       91        1:? 1:No_fruit       0.981 
+       92        1:?    2:Melon       0.666 
+       93        1:?   7:Tomato       0.669 
+       94        1:?    2:Melon       0.972 
+       95        1:? 4:Pineapple       0.959 
+       96        1:?   6:Banana       0.939 
+       97        1:? 1:No_fruit       0.969 
+       98        1:? 1:No_fruit       0.647 
+       99        1:? 5:Courgette       0.948 
+      100        1:?    2:Melon       0.836 
+      101        1:?    3:Apple       0.871 
+      102        1:?    2:Melon       0.985 
+      103        1:?    2:Melon       0.985 
+      104        1:? 1:No_fruit       0.982 
+      105        1:? 1:No_fruit       0.98 
+      106        1:?    2:Melon       0.988 
+      107        1:? 1:No_fruit       0.736 
+      108        1:? 1:No_fruit       0.984 
+      109        1:? 5:Courgette       0.945 
+      110        1:? 1:No_fruit       0.996 
+      111        1:?    2:Melon       0.964 
+      112        1:? 1:No_fruit       0.98 
+      113        1:? 5:Courgette       0.944 
+      114        1:? 1:No_fruit       0.998 
+      115        1:? 1:No_fruit       0.996 
+      116        1:?    2:Melon       0.598 
+      117        1:? 4:Pineapple       0.959 
+      118        1:? 1:No_fruit       0.983 
+      119        1:? 1:No_fruit       0.994 
+      120        1:? 5:Courgette       0.948 
+      121        1:? 1:No_fruit       0.901 
+      122        1:?   6:Banana       0.945 
+      123        1:? 1:No_fruit       0.993 
+      124        1:? 1:No_fruit       0.994 
+      125        1:?    3:Apple       0.731 
+      126        1:? 1:No_fruit       0.991 
+      127        1:?   6:Banana       0.949 
+      128        1:?    2:Melon       0.999 
+      129        1:?    3:Apple       0.921 
+      130        1:? 1:No_fruit       0.836 
+      131        1:? 4:Pineapple       0.511 
+      132        1:?    2:Melon       0.984 
+      133        1:?    2:Melon       0.976 
+      134        1:?    2:Melon       0.999 
+      135        1:?    3:Apple       0.599 
+      136        1:?    3:Apple       0.917 
+      137        1:? 1:No_fruit       0.993 
+      138        1:? 4:Pineapple       0.959 
+      139        1:? 1:No_fruit       0.98 
+      140        1:?    3:Apple       0.953 
+      141        1:?   6:Banana       0.951 
+      142        1:?    2:Melon       0.999 
+      143        1:? 1:No_fruit       0.982 
+      144        1:? 4:Pineapple       0.959 
+      145        1:?    2:Melon       0.889 
+      146        1:?    2:Melon       0.996 
+      147        1:? 1:No_fruit       0.987 
+      148        1:? 1:No_fruit       0.995 
+      149        1:? 1:No_fruit       0.982 
+      150        1:?    2:Melon       0.936 
+      151        1:?    2:Melon       0.999 
+
+=== Summary ===
+
+Total Number of Instances                0     
+Ignored Class Unknown Instances                151     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         No_fruit
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         Melon
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         Apple
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         Pineapple
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         Courgette
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         Banana
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         Tomato
+Weighted Avg.    NaN      NaN      NaN        NaN      NaN        NaN      NaN       NaN       
+
+=== Confusion Matrix ===
+
+ a b c d e f g   <-- classified as
+ 0 0 0 0 0 0 0 | a = No_fruit
+ 0 0 0 0 0 0 0 | b = Melon
+ 0 0 0 0 0 0 0 | c = Apple
+ 0 0 0 0 0 0 0 | d = Pineapple
+ 0 0 0 0 0 0 0 | e = Courgette
+ 0 0 0 0 0 0 0 | f = Banana
+ 0 0 0 0 0 0 0 | g = Tomato
+

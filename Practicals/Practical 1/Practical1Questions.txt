@@ -1,0 +1,16 @@
+Question 1: 
+5 attributes
+Colour
+Weight
+Shape
+Price
+Fruit
+Output : Fruit
+
+Question 2:
+Weight
+Price
+
+Question 3:
+Pinapple
+Melon

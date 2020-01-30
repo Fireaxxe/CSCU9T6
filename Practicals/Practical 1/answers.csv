@@ -1,0 +1,152 @@
+Colour,Weight,Shape,Price,Fruit
+Yellow,12,Oval,1.47479284,No fruit
+Red,23,Oval,5.42811998,Melon
+Yellow,7,Round,0.653677285,No fruit
+Green,19,Oval,3.944507198,No fruit
+Green,15,Oval,2.813428664,No fruit
+Green,10,Oval,1.165281958,No fruit
+Red,16,Round,2.67337226,No fruit
+Red,5,Round,0.842331577,Tomato
+Red,18,Oval,3.033591016,No fruit
+Yellow,9,Round,1.043788963,No fruit
+Red,11,Oval,1.459657671,No fruit
+Yellow,13,Round,2.258039882,No fruit
+Red,9,Round,1.193113038,Apple
+Green,17,Oval,3.41755986,No fruit
+Green,20,Round,4.493470674,Melon
+Yellow,20,Long,3.657656984,Banana
+Red,22,Long,5.107806522,Melon
+Green,9,Oval,1.609032494,No fruit
+Green,11,Oval,1.598629968,No fruit
+Green,22,Oval,4.630286087,Melon
+Red,16,Round,3.092852529,No fruit
+Red,14,Oval,2.74579551,No fruit
+Green,17,Oval,2.836174851,No fruit
+Red,7,Long,0.443746414,Apple
+Red,24,Long,5.415673984,Melon
+Green,18,Long,3.561970553,No fruit
+Green,15,Oval,2.156819216,No fruit
+Green,13,Oval,2.192626468,No fruit
+Red,12,Round,1.586658301,No fruit
+Green,7,Oval,1.116479354,No fruit
+Green,15,Oval,2.305415796,No fruit
+Red,19,Long,3.374937095,No fruit
+Green,19,Oval,3.779656977,No fruit
+Red,10,Long,1.079928555,Apple
+Green,12,Oval,2.003601062,No fruit
+Red,13,Oval,2.021409894,No fruit
+Green,10,Long,1.156474498,Courgette
+Green,15,Oval,2.309623772,No fruit
+Red,8,Oval,0.827722292,Apple
+Red,24,Oval,5.343381375,Melon
+Yellow,9,Oval,1.274898766,No fruit
+Red,20,Oval,3.628954268,Melon
+Yellow,16,Round,3.087694101,No fruit
+Green,19,Long,3.417892729,No fruit
+Red,9,Oval,1.064322298,Apple
+Red,21,Long,4.75381255,Melon
+Yellow,6,Round,0.779452665,No fruit
+Green,22,Round,4.541674948,Melon
+Green,9,Round,1.487446258,No fruit
+Green,6,Long,0.372393881,Courgette
+Green,14,Round,2.107194161,No fruit
+Green,9,Round,0.765149115,No fruit
+Green,21,Oval,4.102019118,Melon
+Green,10,Oval,1.691714357,No fruit
+Yellow,14,Oval,2.388380349,Pineapple
+Yellow,8,Oval,1.516709453,No fruit
+Green,24,Oval,5.568690122,Melon
+Yellow,22,Long,4.884208225,Melon
+Red,7,Oval,0.856155407,Apple
+Red,5,Oval,0.912223801,Tomato
+Red,13,Long,2.178459872,No fruit
+Green,9,Long,0.897826355,Courgette
+Red,22,Long,4.525475975,Melon
+Green,24,Oval,5.466419891,Melon
+Yellow,15,Round,2.403106169,No fruit
+Yellow,15,Oval,2.067932725,Pineapple
+Yellow,10,Round,1.046216259,No fruit
+Red,10,Long,1.679810241,Apple
+Red,21,Round,4.022353629,Melon
+Green,13,Round,1.665718663,No fruit
+Green,18,Long,3.209753938,No fruit
+Green,13,Oval,1.603352997,No fruit
+Red,13,Long,2.517500997,No fruit
+Red,24,Round,5.659800639,Melon
+Green,7,Oval,1.306883603,No fruit
+Yellow,23,Round,5.077067085,Melon
+Red,13,Round,1.620704436,No fruit
+Green,14,Round,1.826038014,No fruit
+Green,7,Oval,0.754379672,No fruit
+Yellow,16,Oval,2.748813798,Pineapple
+Green,8,Oval,0.989744128,No fruit
+Green,7,Round,0.692146738,No fruit
+Red,19,Long,4.121053881,No fruit
+Red,16,Round,2.930640316,No fruit
+Green,23,Long,5.298738875,Melon
+Yellow,9,Oval,1.367130242,No fruit
+Green,7,Oval,1.0629679,No fruit
+Yellow,8,Round,1.010102797,No fruit
+Yellow,14,Oval,2.291407066,Pineapple
+Green,20,Oval,4.099072991,Melon
+Green,12,Round,1.782195214,No fruit
+Yellow,19,Round,3.307422159,No fruit
+Red,7,Round,0.814547601,Apple
+Red,22,Oval,4.787477224,Melon
+Yellow,22,Oval,5.013565067,Pineapple
+Yellow,12,Long,1.455296192,Banana
+Red,14,Oval,2.540262452,No fruit
+Red,16,Oval,3.184327965,No fruit
+Green,6,Long,0.615679412,Courgette
+Red,18,Round,3.387764076,No fruit
+Red,11,Oval,1.670086851,No fruit
+Green,21,Oval,4.390921117,Melon
+Red,16,Long,3.292467481,No fruit
+Yellow,7,Round,0.862906334,No fruit
+Green,11,Round,1.27807665,No fruit
+Green,22,Oval,5.329477261,Melon
+Red,13,Oval,2.089393533,No fruit
+Green,6,Round,0.827924384,No fruit
+Green,9,Long,1.319564665,Courgette
+Green,13,Oval,2.112047128,No fruit
+Green,19,Oval,3.720823864,No fruit
+Green,13,Round,1.662779489,No fruit
+Green,8,Long,0.739852354,Courgette
+Green,14,Oval,2.607993486,No fruit
+Green,14,Oval,1.836021892,No fruit
+Green,17,Long,3.099578984,No fruit
+Yellow,23,Oval,4.839598594,Pineapple
+Green,13,Round,2.234073772,No fruit
+Green,11,Oval,1.397114187,No fruit
+Green,6,Long,1.254245128,Courgette
+Green,16,Oval,3.246655493,No fruit
+Yellow,12,Long,1.9144945,Banana
+Green,10,Oval,0.950126884,No fruit
+Green,11,Oval,1.870960803,No fruit
+Red,16,Long,2.308534174,No fruit
+Yellow,13,Round,1.785734987,No fruit
+Yellow,12,Long,2.257658237,Banana
+Red,23,Round,5.010802811,Melon
+Red,10,Oval,1.303086493,Apple
+Green,13,Long,2.439230838,No fruit
+Yellow,17,Oval,3.162568259,Pineapple
+Green,22,Round,5.069541818,Melon
+Green,20,Round,4.311002239,Melon
+Red,21,Round,4.475115923,Melon
+Red,12,Round,2.181521578,No fruit
+Red,11,Round,1.144169286,No fruit
+Green,9,Oval,1.591906001,No fruit
+Yellow,22,Oval,4.471259753,Pineapple
+Green,9,Round,1.138607173,No fruit
+Red,12,Long,1.959683699,No fruit
+Yellow,16,Long,2.983663507,Banana
+Red,22,Round,5.111900579,Melon
+Green,13,Round,1.972697567,No fruit
+Yellow,21,Oval,4.394852669,Pineapple
+Green,18,Oval,3.428928982,No fruit
+Green,20,Long,4.088219703,Melon
+Red,15,Oval,2.749642258,No fruit
+Green,12,Oval,1.522228413,No fruit
+Green,13,Round,2.071307872,No fruit
+Red,18,Oval,3.290003838,No fruit
+Red,22,Round,4.828695998,Melon
